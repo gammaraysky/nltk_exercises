@@ -5,3 +5,5 @@
   - positive/negative sentiment analysis on amazon book reviews
 - `nltk_spam_classifier.ipynb`
   - positive/negative spam prediction on sms text messages
+- `nltk_bbcnews_topicmodelling.ipynb`
+  - topic modelling of 2000 BBC news articles into news categories.
