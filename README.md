@@ -7,3 +7,9 @@
   - positive/negative spam prediction on sms text messages
 - `nltk_bbcnews_topicmodelling.ipynb`
   - topic modelling of 2000 BBC news articles into categories.
+    - preprocess using CountVectorizer and tf-idf.
+    - apply PCA and k-means to estimate optimal n_topics
+    - LDA topic modelling with gensim vs sklearn
+    - wordcloud visualisation of topic keywords
+    - Clustering using t-SNE and UMAP reductions
+    - BERTopic topic modelling, visualize topic distance, hierarchical linkage
