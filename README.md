@@ -9,7 +9,7 @@
   - topic modelling of 2000 BBC news articles into categories.
     - preprocess using CountVectorizer and tf-idf.
     - apply PCA and k-means to estimate optimal n_topics
+    - Clustering using t-SNE and UMAP reductions
     - LDA topic modelling with gensim vs sklearn
     - wordcloud visualisation of topic keywords
-    - Clustering using t-SNE and UMAP reductions
     - BERTopic topic modelling, visualize topic distance, hierarchical linkage
